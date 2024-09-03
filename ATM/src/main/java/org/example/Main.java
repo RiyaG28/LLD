@@ -86,7 +86,7 @@ public class Main {
         else{
             System.out.println("No operation selected");
         }
-        
+
     }
 
     public static void updateMap(HashMap<Integer,Card> cardMap, ATM atm){
